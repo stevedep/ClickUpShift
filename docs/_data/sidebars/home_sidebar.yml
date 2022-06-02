@@ -15,6 +15,9 @@ entries:
     - output: web,pdf
       title: Title
       url: helper.html
+    - output: web,pdf
+      title: test
+      url: test.html
     output: web
     title: ClickUpShift
   output: web

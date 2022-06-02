@@ -2,6 +2,7 @@
   "ClickUpShift": {
     "Overview": "/",
     "Core Module": "core.html",
-    "Title": "helper.html"
+    "Title": "helper.html",
+    "test": "test.html"
   }
 }
