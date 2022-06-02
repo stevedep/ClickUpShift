@@ -15,8 +15,7 @@ docs_serve: docs
 	cd docs && bundle exec jekyll serve
 
 docs: $(SRC)
-	nbdev_build_docs
-	touch docs
+	nbdev_build_docs	
 
 gitm: 
 	git add --all
