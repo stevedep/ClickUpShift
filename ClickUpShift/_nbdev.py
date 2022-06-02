@@ -11,8 +11,8 @@ index = {"CU": "00_core.ipynb",
 modules = ["core.py",
            "helper.py"]
 
-doc_url = "https://StevedeP.github.io/ClickUpShift/"
+doc_url = "https://StevedeP.github.io/blob/master/ClickUpShift/"
 
-git_url = "https://github.com/StevedeP/ClickUpShift/"
+git_url = "https://github.com/StevedeP/ClickUpShift/blob/tree/master/"
 
 def custom_doc_links(name): return None
