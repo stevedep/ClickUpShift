@@ -19,7 +19,6 @@ def urlrequest(url, apikey, param=None):
     data = json.loads(responsedata)
     return data
 
-
 # Cell
 def updatescore(fieldid, taskid, value, apikey):
     conn = http.client.HTTPSConnection("api.clickup.com")
@@ -37,7 +36,6 @@ def updatescore(fieldid, taskid, value, apikey):
     res = conn.getresponse()
     data = res.read()
     return data.decode("utf-8")
-
 
 # Cell
 def shiftstartandduedate(taskid, startvalue, duevalue, aantaldagen, apikey):
@@ -58,7 +56,6 @@ def shiftstartandduedate(taskid, startvalue, duevalue, aantaldagen, apikey):
     res = conn.getresponse()
     data = res.read()
     return data.decode("utf-8")
-
 
 # Cell
 def updatepriority(taskid, value, apikey):
