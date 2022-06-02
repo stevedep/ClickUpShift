@@ -2,8 +2,11 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"urlrequest": "01_helper.ipynb",
-         "updatescore": "01_helper.ipynb"}
+index = {"CU": "00_core.ipynb",
+         "urlrequest": "01_helper.ipynb",
+         "updatescore": "01_helper.ipynb",
+         "shiftstartandduedate": "01_helper.ipynb",
+         "updatepriority": "01_helper.ipynb"}
 
 modules = ["core.py",
            "helper.py"]

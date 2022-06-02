@@ -1,24 +1,12 @@
-# Project name here
-> Summary description here.
+# ClikUpShift
+> Package that allows you to shift tasks and to score them. Scoring does require custom fields. Reference to those custom fields have been hard coded. Therefore, scoring will not work out of the box, shifting tasks should work.
 
-
-This file will become your README and also the index of your documentation.
 
 ## Install
 
-`pip install your_project_name`
+`pip install ClickUpShift`
 
 ## How to use
 
-Fill me in please! Don't forget code examples:
-
-```python
-1+4
-```
-
-
-
-
-    5
-
+Load the module and add your API code.
 
