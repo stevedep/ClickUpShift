@@ -11,7 +11,7 @@ index = {"CU": "00_core.ipynb",
 modules = ["core.py",
            "helper.py"]
 
-doc_url = "https://StevedeP.github.io/"
+doc_url = "https://StevedeP.github.io/ClickUpShift/"
 
 git_url = "https://github.com/StevedeP/ClickUpShift/blob/master/"
 
